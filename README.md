@@ -1,4 +1,3 @@
-# learning-git
 # NCRTC AI Assistant
 
 A desktop app (`voice_assistant.py`) built with `customtkinter`, styled as an

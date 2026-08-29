@@ -1,0 +1,14 @@
+ ============================================================
+# Config file for Voice Assistant
+# ============================================================
+# Paste your free Gemini API key below, after the equals sign.
+# Get one at: https://aistudio.google.com/apikey
+# (Sign in with Google, click "Create API key" -- no credit
+#  card required.)
+#
+# Example:
+#   GEMINI_API_KEY=YOUR_API_KEY_HERE
+#
+# Leave it blank (as below) to run in offline fallback mode.
+# ============================================================
+GEMINI_API_KEY=YOUR_API_KEY_HERE

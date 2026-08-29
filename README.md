@@ -72,7 +72,7 @@ py -m pip install -r requirements.txt
 3. Open `config.txt` with Notepad
 4. Paste your key after the `=`:
    ```
-   GEMINI_API_KEY=AIzaSyABCDEF1234567890abcdefgh
+   GEMINI_API_KEY="gemini api"
    ```
 5. Save and close
 
